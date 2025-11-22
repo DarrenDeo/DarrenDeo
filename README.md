@@ -10,6 +10,8 @@ I'm a Computer Science enthusiast, currently diving into the world of **Cloud Te
 - C++
 - HTML & CSS
 - Some JavaScript
+- Cloud Tech and Cloud Computing (Google Cloud Platform)
+- Docker & Kubernetes
 
 ## 🚀 Featured Project
 
